@@ -6,8 +6,7 @@ nc: 7
 names: ['elbow positive', 'fingers positive', 'forearm fracture', 'humerus fracture', 'humerus', 'shoulder fracture', 'wrist positive']
 
 roboflow:
-  workspace: veda
+  workspace: Anshu's Vision Space
   project: bone-fracture-detection-daoon
   version: 4
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/veda/bone-fracture-detection-daoon/dataset/4
+  license: CC BY 4.
